@@ -362,6 +362,3 @@ while True:
         break
     if proceed == "n":
         break
-
-# C:\Users\marku\OneDrive\Počítač\Nové videofffffff.mp4
-# C:\Users\marku\AppData\Roaming\.minecraft\saves\1_14 cobble gen ilmango\datapacks
