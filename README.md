@@ -6,6 +6,8 @@ converts mp4 in to minecraft \
 
 # Download At
 - [Google Drive](https://drive.google.com/file/d/10LAajHT04QyzyEeVeeMyPNaklH3KwgAE/view?usp=sharing)
+- Your anti-virus might detect this file as a HackTool \
+ Hacktools can be used to patch or "crack" some software so it will run without a valid license or genuine product key
 
 # Setting Up The Video
 - Go to minecraft_video.exe located in your datapack folder \
