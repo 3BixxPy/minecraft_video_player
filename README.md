@@ -16,3 +16,8 @@ if you didn't generate any jpegs set generate jpegs, they will be located in ```
 - Then start the video with ```/function minecraft_video:start_video```
 - Use ```/function minecraft_video:pause_video``` to pause and ```/function minecraft_video:reset_video``` to reset
 - ```/execute at @e[tag=pos] run tp @e[tag=pos] ~ ~ ~ Xrot Yrot``` to rotate the video
+
+# Included Test Video
+- There is a rar file located in datapacks\minecraft_video_player called Bad_Apple
+- Make sure the folder minecraft_video\functions\frame_scripts is empty
+- And extract Bad_Apple.rar in the frame_scripts
