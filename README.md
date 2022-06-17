@@ -5,7 +5,7 @@ converts mp4 in to minecraft
 
 # Setting Up The Video
 - Go to minecraft_video.exe located in your datapack folder \
-and set a video path (C:\videos\video.mp4), datapack path (minecraft\world\datapacks) \
+and set a video path (C:\videos\video.mp4), datapack path (minecraft\saves\world\datapacks) \
 set a width in blocks I recomend anything from 64-100 \
 if you didn't generate any jpegs set generate jpegs, they will be located in ```minecraft_video_player\data\minecraft_video\functions\frames```
 
