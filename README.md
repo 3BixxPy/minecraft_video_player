@@ -10,6 +10,7 @@ set a width in blocks I recomend anything from 64-100 \
 if you didn't generate any jpegs set generate jpegs, they will be located in ```minecraft_video_player\data\minecraft_video\functions\frames```
 
 # Usage
+- Reload the datapack ```/reload```
 - First you need to set a position for the video with ```/function minecraft_video:set_pos```
 - Then start the video with ```/function minecraft_video:start_video```
 - Use ```/function minecraft_video:pause_video``` to pause and ```/function minecraft_video:reset_video``` to reset
