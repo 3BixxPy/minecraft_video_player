@@ -1,6 +1,6 @@
 # Minecraft Video Player
 converts mp4 in to minecraft \
-[ python code](https://github.com/3BixxPy/minecraft_video/tree/code)
+[ python code](https://github.com/3BixxPy/minecraft_video/tree/code) \
 [Video](https://www.youtube.com/watch?v=KN-YvopMdOs)
 
 ![](https://i.imgur.com/AZUGe8f.png)
