@@ -23,6 +23,7 @@ import os.path
 import time
 import PIL.Image
 import cv2
+from sys import exit
 
 palette = [
     0, 0, 0,  # black_concrete
