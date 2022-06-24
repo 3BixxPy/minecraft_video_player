@@ -6,7 +6,7 @@ converts mp4 to minecraft (71 colors supported) \
 ![](https://i.imgur.com/AZUGe8f.png)
 
 # Download At
-- download link => [Media Fire](https://www.mediafire.com/file/zba25vzi811fbun/minecraft_video_player_1.0.0.rar/file)
+- download link => [Media Fire](https://www.mediafire.com/file/rl1vh684x6lm7lu/minecraft_video_player_1.0.1.rar/file)
 - Your anti-virus might detect this file as a HackTool \
  Hacktools can be used to patch or "crack" some software so it will run without a valid license or genuine product key
 
