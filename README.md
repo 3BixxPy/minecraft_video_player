@@ -1,7 +1,8 @@
-# Minecraft Video Player
+# Minecraft Video Player [USE NEW VERSION link below]
 
 
-#updated version [here](https://github.com/3BixxPy/mcvideo2) \
+**updated version https://github.com/3BixxPy/mcvideo)**
+
 converts mp4 to minecraft (71 colors supported) \
 [Python code](https://github.com/3BixxPy/minecraft_video/tree/code) \
 [Video](https://www.youtube.com/watch?v=KN-YvopMdOs)
